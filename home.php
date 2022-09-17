@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>Bienvenue chez En faim !</title>
+<<<<<<< HEAD
         <meta charset="utf-8">
     </head>
     
@@ -14,5 +15,11 @@
 
 
         </div>
+=======
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        
+>>>>>>> 1a7ac8bd9249237c0addb4288375624a5be52091
     </body>
 </html>
