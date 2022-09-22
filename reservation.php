@@ -45,4 +45,5 @@ $reqCouverts = $bdd->prepare('SELECT client_couverts FROM clients');
 $reqCouverts->execute();
 $maxCouverts = $reqCouverts->fetchall();
 $totalCouverts = array_sum($maxCouverts);
+
 ?>
