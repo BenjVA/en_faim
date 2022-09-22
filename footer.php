@@ -1,3 +1,4 @@
 <footer>
-    Tout droits réservés à En faim SAS.
+    © 2021 Copyright En faim SAS.  
 </footer>
+<!-- copyright du site -->
